@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/travelbliss/static/css/main.04dc749d.css",
+    "main.js": "/travelbliss/static/js/main.9db93f65.js",
+    "static/media/6.jpg": "/travelbliss/static/media/6.ebcd106a5e96b083a550.jpg",
+    "static/media/4.jpg": "/travelbliss/static/media/4.8883225014f7f3aebd71.jpg",
+    "static/media/13.jpg": "/travelbliss/static/media/13.02d0643256e22d78f271.jpg",
+    "static/media/5.jpg": "/travelbliss/static/media/5.d4c82fa7ab84f490d8b0.jpg",
+    "static/media/8.jpg": "/travelbliss/static/media/8.a93fc92d193aab55361f.jpg",
+    "static/media/1.jpg": "/travelbliss/static/media/1.fe87d4b66c20246a4b8f.jpg",
+    "static/media/3.jpg": "/travelbliss/static/media/3.84d5235cc693e15661d6.jpg",
+    "static/media/2.jpg": "/travelbliss/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/12.jpg": "/travelbliss/static/media/12.257c5311e1cae5638aad.jpg",
+    "static/media/night.jpg": "/travelbliss/static/media/night.ac6d287d5d0014553b87.jpg",
+    "index.html": "/travelbliss/index.html",
+    "main.04dc749d.css.map": "/travelbliss/static/css/main.04dc749d.css.map",
+    "main.9db93f65.js.map": "/travelbliss/static/js/main.9db93f65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04dc749d.css",
+    "static/js/main.9db93f65.js"
+  ]
+}
